@@ -1,5 +1,5 @@
 # Recipes-Nutritions
-A recipe app that shows nutritional value of each ingredients
+A recipe search app built with react that shows the ingredients and the total amount of calories that it contains
 
 ## Installation
 1. clone the repository
