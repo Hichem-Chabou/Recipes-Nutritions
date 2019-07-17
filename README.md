@@ -16,10 +16,10 @@ $ npm install
 6. Change the following:
 
 		const APP_ID = 'c939a6c8';
-Replace `c939a6c8` with the api id obtained from edamam
+	Replace `c939a6c8` with the api id obtained from edamam
 
 		const APP_KEY = process.env.REACT_APP_API_KEY; 
-Replace `process.env.REACT_APP_API_KEY` with the api key obtained from edamam
+	Replace `process.env.REACT_APP_API_KEY` with the api key obtained from edamam
 
 ## Usage
 Start the app with <br>
