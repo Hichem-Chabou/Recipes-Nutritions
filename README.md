@@ -13,7 +13,7 @@ $ npm install
 `
 4. Then `$ cd src` or go to the src folder
 5. Open App.js in the text editor of your choice
-6. Change the following: <br>
+6. Change the following:
 
 		const APP_ID = 'c939a6c8';
 Replace `c939a6c8` with the api id obtained from edamam
