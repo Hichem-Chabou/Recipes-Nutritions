@@ -11,7 +11,7 @@ You need an api key from [edamam](https://developer.edamam.com/edamam-recipe-api
 `
 $ npm install
 `
-4. Then `$ cd src` or go to the src folder
+4. Then `$ cd src` or go to the "src" folder
 5. Open App.js in the text editor of your choice
 6. Change the following:
 
