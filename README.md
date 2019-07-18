@@ -13,7 +13,7 @@ You need an api key from [edamam](https://developer.edamam.com/edamam-recipe-api
 $ npm install
 `
 4. Then `$ cd src` or go to the "src" folder
-5. Open App.js in a text editor
+5. Open App.js
 6. Change the following:
 
 		const APP_ID = process.env.REACT_APP_ID;
