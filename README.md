@@ -1,5 +1,5 @@
 # Recipes-Nutritions
-A recipe search app built with react that shows the ingredients and the total amount of calories that it contains.  
+A recipe search app built with react that shows the recipe's ingredients and the total amount of calories that it contains.  
 Demo: https://recipenutritions.surge.sh/
 
 ## Requirements
@@ -13,7 +13,7 @@ You need an api key from [edamam](https://developer.edamam.com/edamam-recipe-api
 $ npm install
 `
 4. Then `$ cd src` or go to the "src" folder
-5. Open App.js in the text editor of your choice
+5. Open App.js in a text editor
 6. Change the following:
 
 		const APP_ID = process.env.REACT_APP_ID;
