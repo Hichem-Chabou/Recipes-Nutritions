@@ -1,5 +1,5 @@
 # Recipes-Nutritions
-A recipe search app built with react that shows the ingredients and the total amount of calories that it contains. 
+A recipe search app built with react that shows the ingredients and the total amount of calories that it contains.  
 Demo: https://recipenutritions.surge.sh/
 
 ## Requirements
