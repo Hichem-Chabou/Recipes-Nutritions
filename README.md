@@ -12,11 +12,11 @@ You need an api key from [edamam](https://developer.edamam.com/edamam-recipe-api
 4. Open App.js
 5. Change the following:
 
-    const APP_ID = process.env.REACT_APP_ID;
+    const APP_ID = process.env.REACT_APP_ID; <br>
 	Replace `process.env.REACT_APP_ID` with the api id obtained from edamam
 
-    const APP_KEY = process.env.REACT_APP_API_KEY;
+    const APP_KEY = process.env.REACT_APP_API_KEY; <br>
 	Replace `process.env.REACT_APP_API_KEY` with the api key obtained from edamam
 
 ## Usage
-Start the app with <br>
+Start the app with `npm start` <br>
