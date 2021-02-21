@@ -19,4 +19,7 @@ Replace `process.env.REACT_APP_ID` with the api id obtained from edamam
 Replace `process.env.REACT_APP_API_KEY` with the api key obtained from edamam
 
 ## Usage
-Start the app with `npm start` <br>
+Start the app with `npm start` <br>  
+
+## Screenshot  
+![Home](https://github.com/Hichem-Chabou/Recipes-Nutritions/blob/master/src/Recipe-full.png)  
