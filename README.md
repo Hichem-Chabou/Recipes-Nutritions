@@ -21,5 +21,5 @@ Replace `process.env.REACT_APP_API_KEY` with the api key obtained from edamam
 ## Usage
 Start the app with `npm start` <br>  
 
-## Screenshot  
+## Screenshot :camera:  
 ![Home](https://github.com/Hichem-Chabou/Recipes-Nutritions/blob/master/src/Recipe-full.png)  
