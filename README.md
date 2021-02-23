@@ -4,6 +4,11 @@ A recipe search app built with react that shows the recipe's ingredients and the
 ## Demo  
 Here's a live demo: https://recipenutritions.surge.sh/  
 
+## Built With  
+* [React](https://reactjs.org/)  
+* [Create-React-App](https://create-react-app.dev/)  
+* [Edamam API](https://developer.edamam.com/edamam-recipe-api)  
+
 ## Requirements
 You need an api key from [edamam](https://developer.edamam.com/edamam-recipe-api "edamam")
 
