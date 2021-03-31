@@ -31,5 +31,8 @@ Start the app with `npm start` <br>
 ## Screenshot :camera:  
 ![Home](https://github.com/Hichem-Chabou/Recipes-Nutritions/blob/master/src/Recipe-full.png)  
 
+## To-Do :memo:  
+* Improve UI  
+
 ## License :scroll:  
 [MIT](https://github.com/Hichem-Chabou/Recipes-Nutritions/blob/master/LICENSE)
